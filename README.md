@@ -1,4 +1,5 @@
 # Bookmark Manager Extension
+![BookmarkManger png](https://github.com/user-attachments/assets/7dff1f4f-249c-45be-b07d-0097b6788025)
 A simple and efficient bookmark manager extension that allows users to save, view, and delete bookmarks of their current tabs.
 
 Features
